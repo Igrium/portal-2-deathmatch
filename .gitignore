@@ -1,0 +1,9 @@
+# Un-needed temporary and backup files
+*.vmx
+*.bsp
+*.log
+*.prt
+*.lin
+
+# User specific files
+dev_files/
